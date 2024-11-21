@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+#about {
+    background-color: #f2f2f2;
+    padding: 50px 0;
+}
+
+#about h2 {
+    color: #333;
+}
+
+#about p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #666;
+}
+
+/* Styling for the 'Our Team' section */
+#team {
+    padding: 50px 0;
+}
+
+#team h2 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#team img {
+    width: 200px; /* Set a fixed width for the images */
+    height: 200px; /* Set a fixed height for the images */
+    max-width: 100%; /* Ensure the images don't exceed their container */
+    border-radius: 50%;
+    display: block; /* To remove any extra spacing below the images */
+    margin: 0 auto; /* Center align the images */
+}
+
+#team h3 {
+    margin-top: 15px;
+    font-size: 18px;
+    color: #333;
+    text-align: center; /* Center align the team member names */
+}
+
+#team p {
+    font-size: 14px;
+    color: #777;
+    text-align: center; /* Center align the team member roles */
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\onlinehelpdesk\onlinehelpdesk\onlinehelpdesk\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2511787716.index
+1609490487.index
+1132992759.index
+2544639535.index
+2832524986.index
+921494106.index
